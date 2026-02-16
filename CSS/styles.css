@@ -1,0 +1,9 @@
+/* Estilo general del lienzo */
+#lienzo {
+  background-color: #f0f0f0;       /* Gris claro */
+  display: block;
+  margin: 20px auto;
+  border-radius: 15px;             /* Bordes redondeados del canvas */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Sombra externa suave */
+  border: 2px solid #666;          /* Borde sutil alrededor del canvas */
+}
